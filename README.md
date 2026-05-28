@@ -33,3 +33,5 @@ Sensitive data such as API keys, private keys, tokens, wallet secrets, and payme
 - On-chain actions require precheck and safety validation.
 - High-risk actions require manual confirmation.
 - This repository does not include fake invoices or fake receipts.
+
+This GitHub repository contains redacted proof of usage for my AI-driven Telegram agent running on a VPS, including API usage screenshots, terminal API tests, Hermes runtime proof, and Telegram agent workflow screenshots. Sensitive data such as API keys, private keys, tokens, and payment details are redacted.
